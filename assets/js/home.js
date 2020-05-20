@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Override '100vh' to prevent height changing on mobile browsers
   var firstPage = document.getElementsByClassName('first-page')[0];
-  firstPage.style.height = firstPage.offsetHeight + 'px';
+  firstPage.style.minHeight = firstPage.offsetHeight + 'px';
 
   // Hidden texts
   var hiddenTextElements = document.getElementsByClassName('text-hidden-by-default');
