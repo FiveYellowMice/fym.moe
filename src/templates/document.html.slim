@@ -1,0 +1,60 @@
+doctype 5
+html lang=(ietf_language_tag attr :lang)
+  head
+    meta charset=(attr :encoding, 'utf-8')
+    meta name='viewport' content='width=device-width, initial-scale=1.0'
+    meta http-equiv="X-UA-Compatible" content="IE=edge"
+
+    title=(doctitle)
+    meta name="description" content=(attr :description)
+    link rel="canonical" href=(attr :'page-url')
+    = for_each_lang do |lang|
+      link rel="alternate" hreflang=(ietf_language_tag lang) href="#{attr :'page-url'}?lang=#{lang}"
+    
+    meta property="og:title" content=(doctitle)
+    meta property="og:site_name" content=(attr :'site-name')
+    meta property="og:description" content=(attr :description)
+    meta property="og:type" content="website"
+    meta property="og:url" content=(attr :'page-url')
+
+    link rel="stylesheet" href=(path_with_cache_id "/assets/css/home.css")
+    noscript
+      link rel="stylesheet" href=(path_with_cache_id "/assets/css/home-noscript.css")
+
+  body [
+      id=id
+      class=[(attr :docrole) || (attr :role)] ]
+    - page_content = content
+
+    .first-page
+      .first-page-float
+        h1 = doctitle
+        ul.language-list
+          = for_each_lang do |lang|
+            li
+              a lang=(ietf_language_tag lang) href="?lang=#{lang}"
+                = native_language_name lang
+        = extract_preamble page_content
+
+    .content-wrapper
+      = remove_preamble page_content
+      - unless !footnotes? || (attr? :nofootnotes)
+        section.footnotes aria-label='Footnotes' role='doc-endnotes'
+          hr
+          ol.footnotes
+            - footnotes.each do |fn|
+              li.footnote id=(footnote_id fn.index) role='doc-endnote'
+                ="#{fn.text} "
+                a.footnote-backref [
+                    href="##{footnoteref_id fn.index}"
+                    role='doc-backlink'
+                    title='Jump to the first occurrence in the text' ]
+                  | &#8617;
+      footer
+        p = Date.parse(attr :revdate).strftime(attr :'footer-last-update-notice')
+        p
+          a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"
+            img alt="Creative Commons License" src="/assets/images/by-sa.svg" width="88" height="31"
+          br
+          = (attr :'footer-cc-notice') % ["<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">", "</a>"]
+    script src=(path_with_cache_id "/assets/js/home.js")

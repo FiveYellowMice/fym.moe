@@ -1,0 +1,139 @@
+= FiveYellowMice 的个人主页
+FiveYellowMice
+2020-03-25
+include::_translations.adoc[]
+:page-url: {site-url}
+:description: 你想知道的关于 FiveYellowMice 的所有东西。
+
+你好，欢迎来到黄鼠的个人主页。如果你是为了了解更多我的话，感谢有兴趣！请向下翻页来继续阅读，或者选择下列主题中的一个。
+
+[nav]
+* link:#links-to-myself[自己的链接]
+* link:#faq[常见疑问]
+* https://fym.moe/ask/[向我提问]
+* https://fiveyellowmice.com/en/links/[友情链接]
+
+== 概览 [[overview]]
+
+黄鼠是一位很普通的网络用户。在这里，黄鼠主要是在使用社交媒体，偶尔也会发表一些博文。黄鼠会做一些初学者水准的绘画，同时也写一些电脑软件来娱乐，尽管其中没有任何一个被很多人使用。
+
+黄鼠是一名开源及自由软件信徒{wj}footnote:[作为一名“信徒”不是一件值得骄傲的事，黄鼠更想成为一名“提倡者”，但黄鼠还没有成功的提倡过什么，所以还不能这样自称。]。黄鼠认为，在理想中，所有的东西（不仅是软件）都应该是尽量开放和自由的，让用户拥有选择的权利。同样的道理也使用于人类的观点。
+
+== 自己的链接 [[links-to-myself]]
+
+* https://fiveyellowmice.com/[FiveYellowMice 的博客] +
+主要的博客，一般会花一些功夫、认真地写。
+
+* https://short.fiveyellowmice.com/[FiveYellowMice 的短文章] +
+想要在社交媒体突然讨论，但却太长的东西。
+
+* https://wiki.fiveyellowmice.com[FiveYellowMice's Wiki] +
+黄鼠写的一些其它东西，可以被其他人修改。
+
+和计算机有关的东西可以在这些网站看到：
+
+* https://github.com/FiveYellowMice[GitHub]
+* https://gitlab.com/FiveYellowMice[GitLab]
+
+黄鼠不以艺术细胞闻名，但还是会逞能做一些东西，尽管都是初学者水平。它们一般会被发到这些地方：
+
+* https://www.pixiv.net/users/13014550[Pixiv]
+* https://www.deviantart.com/fiveyellowmice[DeviantArt]
+
+黄鼠的社交媒体帐号：
+
+* https://social.fym.moe/FiveYellowMice[Mastodon/Pleroma/ActivityPub/Fediverse （或者各种其它名字）]
+* https://twitter.com/FiveYellowMice[Twitter]
+* [del]#Google+# (R.I.P.)
+* https://www.instagram.com/fiveyellowmice/[Instagram] （不是很常用）
+
+你也可以在一些其它的网站找到黄鼠，虽然在其中的大部分都不是很活跃：
+
+* https://medium.com/@FiveYellowMice[Medium]
+* https://steamcommunity.com/id/FiveYellowMice/[Steam]
+* https://myanimelist.net/profile/FiveYellowMice[MyAnimeList]
+* https://kitsu.io/users/FiveYellowMice[Kitsu]
+* https://vndb.org/u164809[VNDB]
+* https://www.youtube.com/channel/UCd16BsQg54ZpnE-FgL6LnRw[YouTube]
+
+不过请不要在 Steam 上添加黄鼠的好友，黄鼠不会同意不认识的人的，但拒绝他人仍会使黄鼠不适。
+
+想要联系黄鼠的话，如果我们不是很熟悉，请使用这个电子邮件地址： image:/assets/images/email.png[++hkz85825915@gmail.com++, height=16]footnote:[这个邮件地址被做成图片是为了避免被简单的垃圾邮件发送者抓取到。]
+
+== 常见疑问 [[faq]]
+
+虽然这个段落叫做“常见疑问”，实际上很多问题都并没有被其它人问过。黄鼠只是想讨论自己。
+
+如果有更多疑问，或者有想要匿名告诉黄鼠的话，可以来link:https://fym.moe/ask/[提问箱]。
+
+=== 你多大了？
+
+是秘密。
+
+=== 你是做什么的？
+
+目前是无业。
+
+=== 头像是出自哪里的呢？
+
+其中的角色是成海圣奈，出自 HoneyWorks 的音乐视频link:https://www.youtube.com/watch?v=o1WXFxHXieM[《想要变得可爱》]。这张头像是先对视频中的一幕截图，然后黄鼠自己临摹的。
+
+=== 为什么要自称“黄鼠”呢？
+
+因为感觉用名字自称的话，会比较可爱。
+
+=== 你是 GG 还是 MM 啊？
+
+性别是个超复杂的话题，黄鼠甚至想要写一篇博文来讨论这件事。不过在写出来之前，黄鼠可以告诉你：用什么人称代词称呼黄鼠都没有问题。
+
+=== 你平时用什么操作系统？
+
+https://www.archlinunx.org/[ArchLinux] 铅球万袋，一桶浆糊。
+
+=== 你最喜欢的音乐家是哪位？
+
+是 https://en.wikipedia.org/wiki/Mafumafu[Mafumafu] ，超可爱，超闪亮！请了解一下，说不定你也会喜欢。
+
+=== 你物理上在哪里？
+
+猫耳本。
+
+=== 你的政治立场是什么？
+
+黄鼠不知道可以说什么。不过大概可以说的是，黄鼠觉得资本主义很不好，但共产主义也无法运作。
+
+=== 你的人生目标是什么？
+
+什么也没有，真的。生命的意义本身只有繁殖，而黄鼠不觉得繁殖是一件很有意义的事。黄鼠还活着只是因为既然已经有活着了，那就先继续活下去吧。
+
+=== 你喜欢什么样的动漫？
+
+黄鼠喜欢探索各种类型的作品。不过一般来说热血系不是黄鼠的菜，而悬疑类型的故事频频引起黄鼠的兴趣。看一看上面链接的 MyAnimeList 或 Kitsu 页面就可以知道黄鼠具体有看什么了。
+
+=== 你的 MBTI 人格类型是什么？
+
+黄鼠听说 MBTI 是伪科学，不过仅仅是为了有趣的话，上次检测的结果是 INTP-T 。
+
+=== 你是毛茸茸吗？
+
+黄鼠喜欢拟人的动物以及穿着兽装的人类。但要放在一起比较的话，黄鼠还是觉得更喜欢有兽耳和兽尾的人类的艺术作品。不过虽然这样说，黄鼠确实认为毛茸茸的动物很可爱，所以你可以把黄鼠当作毛茸茸。
+
+=== 你最喜欢的动物是什么？
+
+猫咪。但是狗狗也很棒。同样的还有狐狸、浣熊、仓鼠……各有各的好。
+
+=== 有在恋爱关系中吗？
+
+没有，黄鼠从来没有经历过恋爱关系，不过也不觉得这是可耻的。
+
+=== 你最喜欢的电子游戏是什么？
+
+好难选择，不过大概会是《星之卡比：毛线传说》，或者《集合！卡比》，或者《粘粘世界》，或者《我的世界》。
+
+=== 你希望被怎样形容？
+
+可爱、帅气又厉害！
+
+=== -Emia 代表什么？
+
+https://www.youtube.com/playlist?list=PL26HeTCO57qefN6eSaF_GWmp00_wZHjwh[-Emia meaning presence in blood.]

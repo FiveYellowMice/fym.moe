@@ -1,0 +1,13 @@
+ifeval::["{lang}" == "en"]
+:site-name: FiveYellowMice
+:site-url: https://fym.moe/
+:footer-last-update-notice: This page was last updated on %e %B %Y. If this date is a distant past, some information may be outdated.
+:footer-cc-notice: Unless otherwise noted, contents on this website are licensed under a %sCreative Commons Attribution-ShareAlike 4.0 International License%s.
+endif::[]
+
+ifeval::["{lang}" == "zh"]
+:site-name: FiveYellowMice
+:site-url: https://fym.moe/
+:footer-last-update-notice: 本页面最近更新于 %Y 年 %-m 月 %-d 日。若此日期在很久的过去，部分内容可能已经过时。
+:footer-cc-notice: 除特殊说明以外，本网站原创内容采用%s知识共享署名-相同方式共享 4.0 国际许可协议%s进行许可。
+endif::[]

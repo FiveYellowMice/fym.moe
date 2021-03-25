@@ -1,0 +1,135 @@
+= FiveYellowMice's Personal Home Page
+FiveYellowMice
+2020-03-25
+include::_translations.adoc[]
+:page-url: {site-url}
+:description: All you need to know about FiveYellowMice.
+
+Hi, welcome to FiveYellowMice's personal home page. If you visited this page to know more about me, thank you for having such interest! Scroll down to continue reading, or select a topic from below.
+
+[nav]
+* link:#links-to-myself[Links to Myself]
+* link:#faq[FAQ]
+* https://fym.moe/ask/[Ask Me Questions]
+* https://fiveyellowmice.com/en/links/[Links to Friends]
+
+== Overview [[overview]]
+
+I'm a fairly unremarkable internet user. Here, I mainly use social media casually and maybe occasionally write some blog posts. I make some amateur-level illustrations. I also write some computer software for fun, although none of them are used much.
+
+I'm a believer{wj}footnote:[Being a _believer_ is not to be proud of in my opinion, I wish I could be an _advocator_, but I can't really call my self that without having successfully advocated anything.] in free (as in freedom) and open source software. Ideally, I believe that things, not just software, should be free and open as much as possible, giving their users the right to do anything. Same goes for people's opinions on any topic.
+
+== Links to Myself [[links-to-myself]]
+
+* https://fiveyellowmice.com/[FiveYellowMice's Blog] +
+Main blog, contains posts that take some effort to write.
+
+* https://short.fiveyellowmice.com/[FiveYellowMice's Short Articles] +
+Things I want to express spontaneously but are too long to be presented in social media posts.
+
+* https://wiki.fiveyellowmice.com[FiveYellowMice's Wiki] +
+Other things I wrote that can be edited by others.
+
+Computer-related things can be found on these websites:
+
+* https://github.com/FiveYellowMice[GitHub]
+* https://gitlab.com/FiveYellowMice[GitLab]
+
+I'm not known to be artistic, but there are some artworks by me, albeit amateur-level artworks. They are usually posted here:
+
+* https://www.pixiv.net/users/13014550[Pixiv]
+* https://www.deviantart.com/fiveyellowmice[DeviantArt]
+
+My social media accounts are on:
+
+* https://social.fym.moe/FiveYellowMice[Mastodon/Pleroma/ActivityPub/Fediverse (whatever you call it)]
+* https://twitter.com/FiveYellowMice[Twitter]
+* [del]#Google+# (R.I.P.)
+* https://www.instagram.com/fiveyellowmice/[Instagram] (not frequently checked)
+
+There are some other websites you can find me on, although I'm not active on most of them:
+
+* https://medium.com/@FiveYellowMice[Medium]
+* https://steamcommunity.com/id/FiveYellowMice/[Steam]
+* https://myanimelist.net/profile/FiveYellowMice[MyAnimeList]
+* https://kitsu.io/users/FiveYellowMice[Kitsu]
+* https://vndb.org/u164809[VNDB]
+* https://www.youtube.com/channel/UCd16BsQg54ZpnE-FgL6LnRw[YouTube]
+
+Don't add me on Steam though. I won't accept people I don't know, and it's not comfortable to reject people.
+
+To contact me, if we are not familiar, please use the email address: image:/assets/images/email.png[++hkz85825915@gmail.com++, height=16]footnote:[The email address is made into an image to stop rudimentary spammers from scraping it.]
+
+== Frequently Asked Questions [[faq]]
+
+Although this section is called "frequently asked questions", many of these questions haven't been asked by anyone. I just want to talk about my self.
+
+If you have additional questions, or things you want to tell me anonymously, go to the https://fym.moe/ask/[Question Box].
+
+=== How old are you?
+
+It's a secret.
+
+=== What do you do?
+
+I'm unemployed at the moment.
+
+=== What does your avatar originate from?
+
+The character is Narumi Sana, from HoneyWorks' music video https://www.youtube.com/watch?v=o1WXFxHXieM[_I Want to be Cute_]. The avatar is a screenshot of the video, and then copied by myself.
+
+=== Are you a guy or a girl?
+
+Gender is a complex topic. I would actually like to write a blog post on that. But before that happens, I'll let you know that I'm OK with whatever pronouns, be it he/him, she/her, they/them.
+
+=== What operating system do you usually use?
+
+I use https://www.archlinunx.org/[ArchLinux] btw.
+
+=== Who's your favourite musician?
+
+https://en.wikipedia.org/wiki/Mafumafu[Mafumafu]. He is just so cute and shiny! I'm sure you are likely to agree if you check his works out.
+
+=== Where are you physically?
+
+Cat-Ear Book.
+
+=== What's your stand on politics?
+
+I don't know what to say. But I will say that capitalism is pretty bad, while communism doesn't really work either.
+
+=== What's your goal in life?
+
+Nothing, really. The purpose of life is literally just to reproduce, and I don't find that especially interesting. I'm just hanging on because I'm already alive, might as well keeping living.
+
+=== What types of anime do you watch?
+
+I like varieties, but usually the shonen genre is out of my league, and mystery shows often interests me. Go on my MyAnimeList or Kitsu page (linked above) to see what I watch.
+
+=== What's you MBTI personality type?
+
+I've heard people saying that MBTI is unscientific, but just for fun, last time I checked I was INTP-T.
+
+=== Are you a furry?
+
+I like anthropomorphic animals and people wearing fursuits. But I somewhat do like illustrations of humans with animal-style ornaments a bit more. That said, furry animals are still cute to me and you can call me a furry.
+
+=== What's your favourite animal?
+
+Cats. But dogs are cute too. Same goes for foxes, racoons, hamsters... They are all good in different ways.
+
+=== Are you in a romantic relationship?
+
+No, I haven't been in any, but I'm not ashamed of it.
+
+=== What's your favourite video game?
+
+It's hard to choose one. But it's probably going to be Kirby's Epic Yarn, or Kirby's Mass Attack, or World of Goo, or Minecraft.
+
+=== What do you want to be described as?
+
+Cute, cool and awesome!
+
+=== What does -emia mean?
+
+https://www.youtube.com/playlist?list=PL26HeTCO57qefN6eSaF_GWmp00_wZHjwh[-Emia meaning presence in blood.]

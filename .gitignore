@@ -1,2 +1,5 @@
 node_modules/
+vendor/bundle
 /assets/css/
+/index.zh.html
+/index.en.html

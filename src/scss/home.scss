@@ -13,6 +13,7 @@
 }
 
 .first-page-float {
+  max-width: 1000px;
   margin: $paragraph-gap * 0.5;
   padding: $paragraph-gap;
   border-radius: 4px;
@@ -25,12 +26,8 @@
 }
 
 .language-list {
-  text-align: center;
-}
-
-.first-page-topics {
-  margin-left: 0;
   list-style-type: none;
+  margin-left: 0;
   text-align: center;
 
   li {
@@ -39,26 +36,18 @@
   }
 }
 
+nav>ul {
+  @extend .language-list;
+}
+
 .content-wrapper {
   margin: $paragraph-gap auto;
   padding: 0 $paragraph-gap;
   max-width: 800px;
 }
 
-.text-hidden-by-default {
-  display: none;
-}
-
-.text-hidden-by-default-expand-button {
-  font-size: $font-size * 0.5;
-}
-
-.text-hidden-by-default-expanded {
-  display: initial;
-}
-
 footer {
   margin-top: $paragraph-gap * 2;
   padding-top: $paragraph-gap;
-  border-top: 1px solid black;
+  border-top: 3px solid #a24482;
 }
