@@ -11,7 +11,7 @@ include::_translations.adoc[]
 * link:#links-to-myself[自己的链接]
 * link:#faq[常见疑问]
 * https://fym.moe/ask/[向我提问]
-* https://fiveyellowmice.com/en/links/[友情链接]
+* https://fiveyellowmice.com/zh/links/[友情链接]
 
 == 概览 [[overview]]
 
