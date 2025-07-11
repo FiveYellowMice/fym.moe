@@ -84,7 +84,7 @@ Gender is a complex topic. I would actually like to write a blog post on that. B
 
 === What operating system do you usually use?
 
-I use https://www.archlinunx.org/[ArchLinux] btw.
+I use https://archlinux.org/[ArchLinux] btw.
 
 === Who's your favourite musician?
 

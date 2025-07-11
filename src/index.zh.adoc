@@ -88,7 +88,7 @@ include::_translations.adoc[]
 
 === 你平时用什么操作系统？
 
-https://www.archlinunx.org/[ArchLinux] 铅球万袋，一桶浆糊。
+https://archlinux.org/[ArchLinux] 铅球万袋，一桶浆糊。
 
 === 你最喜欢的音乐家是哪位？
 
