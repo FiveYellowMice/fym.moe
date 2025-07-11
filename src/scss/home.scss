@@ -1,5 +1,5 @@
-@import "_vars";
-@import "_typesetting";
+@use "_vars" as *;
+@use "_typesetting";
 
 .first-page {
   display: flex;
