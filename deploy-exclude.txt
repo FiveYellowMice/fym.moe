@@ -1,0 +1,8 @@
+/lib
+/src
+/node_modules
+/vendor
+/Gemfile*
+/package*.json
+/Makefile
+/deploy-exclude.txt

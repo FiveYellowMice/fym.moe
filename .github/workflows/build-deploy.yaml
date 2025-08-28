@@ -1,0 +1,29 @@
+name: Build & Deploy
+on: push
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-24.04
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '20.x'
+    - run: npm ci
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - run: make all
+
+    - if: ${{ github.ref == 'refs/heads/master' }}
+      uses: burnett01/rsync-deployments@7.0.2
+      with:
+        switches: -zr --delete-after --exclude-from=deploy-exclude.txt
+        path: ./
+        remote_path: /srv/fym.moe
+        remote_host: ${{ secrets.DEPLOY_HOST }}
+        remote_user: cicd
+        remote_key: ${{ secrets.DEPLOY_KEY }}
